@@ -15,6 +15,9 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
 
 and that's it!
 
+# Use Repl.it
+[![Use on Repl.it](https://repl.it/badge/github/PeTer344-dot/Chat-Bot)](https://repl.it/github/PeTer344-dot/Chat-Bot)
+
 screenshot:
 ![image](https://user-images.githubusercontent.com/49114258/113037195-c4fc3000-91b2-11eb-823b-d54fef199871.png)
 
