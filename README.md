@@ -1,5 +1,5 @@
-# Custom AI Chatbot For Discord
-# Make your bot *ALIVE* using this chatbot
+# Advance AI Chatbot For Discord
+# No Coding Needed 
 
 Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** installed.
 ![image](https://user-images.githubusercontent.com/49114258/113098549-3de0a380-9216-11eb-97f4-d44fa7b65ef3.png)
@@ -19,6 +19,8 @@ screenshot:
 ![image](https://user-images.githubusercontent.com/49114258/113037195-c4fc3000-91b2-11eb-823b-d54fef199871.png)
 
 
-Please subscribe to [xZyn](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if this helped you out.
+Please subscribe to [PeTerYT](https://youtube.com/c/PeTerYTCoder) on YouTube if this helped you out.
+
+Also Join Our Discord Server [Click Here](https://discord.gg/2GT3HQZPVB)
 
 This project is powered by [Snowflake API](https://api.snowflakedev.xyz/) by [@Snowflake107](https://github.com/Snowflake107)
